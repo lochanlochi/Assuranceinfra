@@ -21,7 +21,7 @@ const columns = [
   "city",
   "detectedLocation",
   "interest",
-  "project",
+  "package",
   "message",
 ] as const;
 
@@ -85,7 +85,7 @@ export async function POST(request: Request) {
     city: text(body.city, 100),
     detectedLocation: detectedLocation(request),
     interest: text(body.interest, 50),
-    project: text(body.project, 100),
+    package: text(body.package, 50),
     message: text(body.message, 1000),
   };
 

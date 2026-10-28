@@ -17,11 +17,11 @@ Then open http://localhost:3000.
 
 ## Editing content
 
-All copy (company details, stats, projects, strengths) lives in `src/content/site.ts`. The current values are placeholders; replace them with real details before going live.
+All copy (company details, stats, process, packages, past projects, strengths, testimonials) lives in `src/content/site.ts`. It was taken from assurancedevelopers.com.
 
 ## Enquiries (leads)
 
-The form posts to `/api/enquiry`, which validates the input and saves: name, phone, email, the city the visitor typed, their approximate location detected by Vercel (city, state, country), what they're interested in, the project and their message.
+The form posts to `/api/enquiry`, which validates the input and saves: name, phone, email, the city the visitor typed, their approximate location detected by Vercel (city, state, country), what they're interested in, the package and their message.
 
 - **On Vercel:** each enquiry is added as a row in a Google Sheet (setup below). If the sheet isn't configured, the form shows an error asking people to call or WhatsApp instead, so leads are never silently lost.
 - **Locally** (no sheet configured): enquiries are appended to `data/enquiries.csv`, which opens in Excel. The `data/` folder is git-ignored because it holds customers' personal data.

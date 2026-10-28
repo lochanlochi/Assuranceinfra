@@ -8,7 +8,7 @@ type Status = { kind: "idle" } | { kind: "sending" } | { kind: "sent" } | { kind
 const fieldClass =
   "mt-1 w-full rounded-lg border border-border bg-surface px-3 py-2.5 text-foreground outline-none focus:border-brand focus:ring-2 focus:ring-brand/30";
 
-export default function EnquiryForm({ projectNames }: { projectNames: string[] }) {
+export default function EnquiryForm({ packageNames }: { packageNames: string[] }) {
   const [status, setStatus] = useState<Status>({ kind: "idle" });
 
   async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
@@ -85,8 +85,8 @@ export default function EnquiryForm({ projectNames }: { projectNames: string[] }
         </label>
       </div>
       <label className="text-sm font-medium">
-        City / area
-        <input name="city" maxLength={100} autoComplete="address-level2" className={fieldClass} />
+        Plot location
+        <input name="city" placeholder="Area or city" maxLength={100} autoComplete="address-level2" className={fieldClass} />
       </label>
       <div className="grid gap-4 sm:grid-cols-2">
         <label className="text-sm font-medium">
@@ -98,10 +98,10 @@ export default function EnquiryForm({ projectNames }: { projectNames: string[] }
           </select>
         </label>
         <label className="text-sm font-medium">
-          Project
-          <select name="project" className={fieldClass} defaultValue="">
+          Package
+          <select name="package" className={fieldClass} defaultValue="">
             <option value="">Not sure yet</option>
-            {projectNames.map((name) => (
+            {packageNames.map((name) => (
               <option key={name}>{name}</option>
             ))}
           </select>
@@ -130,7 +130,7 @@ export default function EnquiryForm({ projectNames }: { projectNames: string[] }
         {status.kind === "sending" ? "Sending…" : "Request a call back"}
       </button>
       <p className="text-xs text-muted">
-        We use your details and approximate location only to contact you about our projects. We never sell or
+        We use your details and approximate location only to contact you about your enquiry. We never sell or
         share them. To have them deleted, email {company.email}.
       </p>
     </form>

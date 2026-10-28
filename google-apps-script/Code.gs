@@ -6,10 +6,10 @@ const HEADERS = [
   "Name",
   "Phone",
   "Email",
-  "City (typed)",
+  "Plot location",
   "Detected location",
   "Interested in",
-  "Project",
+  "Package",
   "Message",
 ];
 
