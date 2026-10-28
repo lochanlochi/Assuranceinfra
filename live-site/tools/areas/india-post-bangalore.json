@@ -1,0 +1,2900 @@
+[
+ {
+  "name": "Bangalore ",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Head Post Office"
+ },
+ {
+  "name": "Bangalore Bazaar",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "CMM Court Complex",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Dr. Ambedkar Veedhi",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "HighCourt",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Legislators Home",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Mahatma Gandhi Road",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Rajbhavan (Bangalore)",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vasanthanagar",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "NA",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vidhana Soudha",
+  "pin": "560001",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bangalore City",
+  "pin": "560002",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bangalore Corporation Building",
+  "pin": "560002",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Malleswaram",
+  "pin": "560003",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Palace Guttahalli",
+  "pin": "560003",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Swimming Pool Extn",
+  "pin": "560003",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vyalikaval Extn",
+  "pin": "560003",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Basavanagudi",
+  "pin": "560004",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Head Post Office"
+ },
+ {
+  "name": "Mavalli",
+  "pin": "560004",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Pampamahakavi Road",
+  "pin": "560004",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Thyagarajnagar",
+  "pin": "560004",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Fraser Town",
+  "pin": "560005",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "J.C.Nagar",
+  "pin": "560006",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Training Command IAF",
+  "pin": "560006",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Agram",
+  "pin": "560007",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Air Force Hospital",
+  "pin": "560007",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "H.A.L II Stage",
+  "pin": "560008",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Head Post Office"
+ },
+ {
+  "name": "Hulsur Bazaar",
+  "pin": "560008",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bangalore Dist Offices Bldg",
+  "pin": "560009",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "K. G. Road",
+  "pin": "560009",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Industrial Estate (Bangalore)",
+  "pin": "560010",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Rajajinagar",
+  "pin": "560010",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Head Post Office"
+ },
+ {
+  "name": "Rajajinagar IVth Block",
+  "pin": "560010",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Jayangar III Block",
+  "pin": "560011",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Madhavan Park",
+  "pin": "560011",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Science Institute",
+  "pin": "560012",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Jalahalli",
+  "pin": "560013",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Head Post Office"
+ },
+ {
+  "name": "Jalahalli East",
+  "pin": "560014",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Jalahalli West",
+  "pin": "560015",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Doorvaninagar",
+  "pin": "560016",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Krishnarajapuram R S",
+  "pin": "560016",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Ramamurthy Nagar",
+  "pin": "560016",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "NAL",
+  "pin": "560017",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vimanapura",
+  "pin": "560017",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chamrajpet (Bangalore)",
+  "pin": "560018",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Gaviopuram Extension",
+  "pin": "560019",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Seshadripuram",
+  "pin": "560020",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Gayathrinagar",
+  "pin": "560021",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Srirampuram",
+  "pin": "560021",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Yeshwanthpur Bazar",
+  "pin": "560022",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Yeswanthpura",
+  "pin": "560022",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Magadi Road",
+  "pin": "560023",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Anandnagar (Bangalore)",
+  "pin": "560024",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "H.A. Farm",
+  "pin": "560024",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Hebbal Kempapura",
+  "pin": "560024",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bangalore Sub Foreign Post",
+  "pin": "560025",
+  "district": "Bangalore",
+  "block": "NA",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "CMP Centre And School",
+  "pin": "560025",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Museum Road",
+  "pin": "560025",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Richmond Town",
+  "pin": "560025",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Deepanjalinagar",
+  "pin": "560026",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Governmemnt Electric Factory",
+  "pin": "560026",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Sampangiramnagar",
+  "pin": "560027",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Shanthinagar",
+  "pin": "560027",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Wilson Garden",
+  "pin": "560027",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Tyagrajnagar",
+  "pin": "560028",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Dharmaram College",
+  "pin": "560029",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Tavarekere",
+  "pin": "560029",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Adugodi",
+  "pin": "560030",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "P&T Col. Kavalbyrasandra",
+  "pin": "560032",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "R T Nagar",
+  "pin": "560032",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Head Post Office"
+ },
+ {
+  "name": "Maruthi Sevanagar",
+  "pin": "560033",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Agara",
+  "pin": "560034",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Koramangala",
+  "pin": "560034",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Koramangala I Block",
+  "pin": "560034",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "St. John's Medical College",
+  "pin": "560034",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Carmelram",
+  "pin": "560035",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Devasandra",
+  "pin": "560036",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Krishnarajapuram",
+  "pin": "560036",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Doddanekkundi",
+  "pin": "560037",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kundalahalli",
+  "pin": "560037",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Marathahalli Colony",
+  "pin": "560037",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Rameshnagar",
+  "pin": "560037",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Indiranagar (Bangalore)",
+  "pin": "560038",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Nayandahalli",
+  "pin": "560039",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chandra Lay Out",
+  "pin": "560040",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vijayanagar (Bangalore)",
+  "pin": "560040",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vijayanagar East",
+  "pin": "560040",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Jayanagar",
+  "pin": "560041",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Head Post Office"
+ },
+ {
+  "name": "Tilaknagar (Bangalore)",
+  "pin": "560041",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Sivan Chetty Gardens",
+  "pin": "560042",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Banaswadi",
+  "pin": "560043",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Horamavu",
+  "pin": "560043",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jalavayuvihar",
+  "pin": "560043",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kalyananagar",
+  "pin": "560043",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Arabic College",
+  "pin": "560045",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Venkateshapura",
+  "pin": "560045",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Benson Town",
+  "pin": "560046",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Jayamahal Road",
+  "pin": "560046",
+  "district": "Bangalore",
+  "block": "NA",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Austin Town",
+  "pin": "560047",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Viveknagar (Bangalore)",
+  "pin": "560047",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Hoodi",
+  "pin": "560048",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mahadevapura",
+  "pin": "560048",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bhattarahalli",
+  "pin": "560049",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bidrahalli",
+  "pin": "560049",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mundur",
+  "pin": "560049",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Virgonagar",
+  "pin": "560049",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Ashoknagar (Bangalore)",
+  "pin": "560050",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Banashankari",
+  "pin": "560050",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Dasarahalli(Srinagar)",
+  "pin": "560050",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "State Bank Of Mysore Colony",
+  "pin": "560050",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "H.K.P. Road",
+  "pin": "560051",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vasanthnagar",
+  "pin": "560052",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chickpet",
+  "pin": "560053",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Mathikere",
+  "pin": "560054",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Msrit",
+  "pin": "560054",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Sri Chowdeshwari",
+  "pin": "560054",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Malleswaram West",
+  "pin": "560055",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bnagalore Viswavidalaya",
+  "pin": "560056",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Mallathahalli",
+  "pin": "560056",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Peenya Dasarahalli",
+  "pin": "560057",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Laggere",
+  "pin": "560058",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Peenya I Stage",
+  "pin": "560058",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Peenya Small Industries",
+  "pin": "560058",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Rv Niketan",
+  "pin": "560059",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chudenapura",
+  "pin": "560060",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kengeri",
+  "pin": "560060",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Sulikere",
+  "pin": "560060",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Chikkalasandra",
+  "pin": "560061",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Subramanyapura",
+  "pin": "560061",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Doddakallasandra",
+  "pin": "560062",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Konanakunte",
+  "pin": "560062",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "A F Station Yelahanka",
+  "pin": "560063",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "BSF Campus Yelahanka",
+  "pin": "560063",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Attur",
+  "pin": "560064",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "CRPF Campus Yelahanka",
+  "pin": "560064",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Jakkur",
+  "pin": "560064",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Rajanakunte",
+  "pin": "560064",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Singanayakanahalli",
+  "pin": "560064",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Yelahanka",
+  "pin": "560064",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Yelahanka Satellite Town",
+  "pin": "560064",
+  "district": "Bangalore",
+  "block": "NA",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "G.K.V.K.",
+  "pin": "560065",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "EPIP",
+  "pin": "560066",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Whitefield",
+  "pin": "560066",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Devanagundi",
+  "pin": "560067",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kadugodi",
+  "pin": "560067",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kadugodi Extention SO",
+  "pin": "560067",
+  "district": "Bangalore",
+  "block": "Banglore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kalkunte",
+  "pin": "560067",
+  "district": "Bangalore Rural",
+  "block": "Hosakote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kannamangala",
+  "pin": "560067",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Medimallasandra",
+  "pin": "560067",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Naduvathi",
+  "pin": "560067",
+  "district": "Bangalore Rural",
+  "block": "Hosakote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Samethanahalli",
+  "pin": "560067",
+  "district": "Bangalore Rural",
+  "block": "Hosakote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Begur",
+  "pin": "560068",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bommanahalli (Bangalore)",
+  "pin": "560068",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Madivala",
+  "pin": "560068",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Singasandra",
+  "pin": "560068",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jayangar East S.O",
+  "pin": "560069",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "B Sk II Stage",
+  "pin": "560070",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Jayanagar West",
+  "pin": "560070",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Padmanabhnagar",
+  "pin": "560070",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Tyagrajnagar",
+  "pin": "560070",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Domlur",
+  "pin": "560071",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Nagarbhavi",
+  "pin": "560072",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bagalgunte",
+  "pin": "560073",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Chikkabidarkal",
+  "pin": "560073",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Nagasandra (Bangalore)",
+  "pin": "560073",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Nelakadiranahalli",
+  "pin": "560073",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kumbalagodu",
+  "pin": "560074",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kumbalgodu Gollahalli",
+  "pin": "560074",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Ramohalli",
+  "pin": "560074",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jeevanbhimanagar",
+  "pin": "560075",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "New Thippasandra",
+  "pin": "560075",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bannerghatta Road",
+  "pin": "560076",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Hulimavu",
+  "pin": "560076",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hulimavu",
+  "pin": "560076",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "JP Nagar VIII phase",
+  "pin": "560076",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Mico Layout",
+  "pin": "560076",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Mount St Joseph",
+  "pin": "560076",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Doddagubbi",
+  "pin": "560077",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Dr. Shivarama Karanth Nagar",
+  "pin": "560077",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kothanur",
+  "pin": "560077",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "J P Nagar",
+  "pin": "560078",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "JP Nagar III Phase",
+  "pin": "560078",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kumaraswamy Layout",
+  "pin": "560078",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Yelachenahalli",
+  "pin": "560078",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Basaveshwaranagar",
+  "pin": "560079",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "K H B Colony",
+  "pin": "560079",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kamakshipalya",
+  "pin": "560079",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Sadashivanagar",
+  "pin": "560080",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chandapura",
+  "pin": "560081",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bolare",
+  "pin": "560082",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kagalipura",
+  "pin": "560082",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Somanhalli",
+  "pin": "560082",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Taralu",
+  "pin": "560082",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Thataguni",
+  "pin": "560082",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Thattekuppe",
+  "pin": "560082",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Udaypura",
+  "pin": "560082",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bannerghatta",
+  "pin": "560083",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Gottigere",
+  "pin": "560083",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kalkere",
+  "pin": "560083",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Ragihalli",
+  "pin": "560083",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sakalavara",
+  "pin": "560083",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Lingarajapuram",
+  "pin": "560084",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "St. Thomas Town",
+  "pin": "560084",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Banashankari III Stage",
+  "pin": "560085",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Girinagar (Bangalore)",
+  "pin": "560085",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kathriguppe",
+  "pin": "560085",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Mahalakshmipuram Layout",
+  "pin": "560086",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "West of Chord Road II stage",
+  "pin": "560086",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Gunjur",
+  "pin": "560087",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Muthusandra",
+  "pin": "560087",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Vartur",
+  "pin": "560087",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Hessarghatta",
+  "pin": "560088",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Byatha",
+  "pin": "560089",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hessarghatta Lake",
+  "pin": "560089",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kakolu",
+  "pin": "560089",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Shivakote",
+  "pin": "560089",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Chikkabanavara",
+  "pin": "560090",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Silvepura",
+  "pin": "560090",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Tarabanahalli",
+  "pin": "560090",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bapagrama",
+  "pin": "560091",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Herohalli",
+  "pin": "560091",
+  "district": "Bangalore",
+  "block": "Bangalore north",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kodigehalli",
+  "pin": "560091",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Viswaneedam",
+  "pin": "560091",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Amruthahalli",
+  "pin": "560092",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Byatarayanapura",
+  "pin": "560092",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kodigehalli",
+  "pin": "560092",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sahakaranagar",
+  "pin": "560092",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "C.V.Raman Nagar",
+  "pin": "560093",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "ISRO Anthariksha Bhavan",
+  "pin": "560094",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "R.M.V. Extension II Stage",
+  "pin": "560094",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Koramangala VI Bk",
+  "pin": "560095",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Nandinilayout",
+  "pin": "560096",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Vidyaranyapura",
+  "pin": "560097",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Rajarajeshwarinagar",
+  "pin": "560098",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bommasandra Industrial Estate",
+  "pin": "560099",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chandapura",
+  "pin": "560099",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Huskur",
+  "pin": "560099",
+  "district": "Bangalore Rural",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Muthanallur",
+  "pin": "560099",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Electronics City",
+  "pin": "560100",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Wipro Limited",
+  "pin": "560100",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "HSR Layout",
+  "pin": "560102",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bellandur",
+  "pin": "560103",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Panathur",
+  "pin": "560103",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hampinagar",
+  "pin": "560104",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Haragadde",
+  "pin": "560105",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hennagara",
+  "pin": "560105",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hulimangala",
+  "pin": "560105",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jigani",
+  "pin": "560105",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kallubalu",
+  "pin": "560105",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Achitnagar",
+  "pin": "560107",
+  "district": "Bangalore Rural",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Anjanapura",
+  "pin": "560108",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Thalaghattapura",
+  "pin": "560109",
+  "district": "Bangalore",
+  "block": "Bangalore South",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Ullalu Upanagar",
+  "pin": "560110",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Kodigehalli",
+  "pin": "560112",
+  "district": "Bangalore",
+  "block": "Bangalore",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bangalore International Airport",
+  "pin": "560300",
+  "district": "Bangalore",
+  "block": "NA",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Anekal",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bestamaranahalli",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Byagadadenahalli",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Guddanahalli",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Indalavadi",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Marsur",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Samandur",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sidihoskote",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Thammanayakanahalli",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Vanakanahalli",
+  "pin": "562106",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Attibele",
+  "pin": "562107",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bidaraguppe",
+  "pin": "562107",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mayasandra",
+  "pin": "562107",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Neralur",
+  "pin": "562107",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Yadavanahalli",
+  "pin": "562107",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Alurduddanahalli",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Anneshwara",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Aradeshanahalli",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Devanahalli",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Doddasanne",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hegganahalli",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanhalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jalige",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kannamangala",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kundana",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sadahalli",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanhalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Uganavadi",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Vishwanathapura",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Yeliyur",
+  "pin": "562110",
+  "district": "Bangalore Rural",
+  "block": "Devanhalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Arebommnahalli",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Baragenahalli",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Billanakote",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Devarahosahalli",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Dobbespet",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Heggunda",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kambalu",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kuluvanahalli",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Lakkur",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Maralakunte",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Narasipura",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Shivagange",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Yelekyathanahalli",
+  "pin": "562111",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Doddagattiganabbe",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Doddanallala",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hasigala",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hoskote",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hosakote",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Hoskote Indl. Area",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jadigenahalli",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jodidasarahalli",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kattigenahalli",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kembliganahalli",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kollathur",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kumbalahalli",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Lakkondanahalli",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mugabala",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Vagata Agrahara",
+  "pin": "562114",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mullahalli",
+  "pin": "562119",
+  "district": "Bangalore Rural",
+  "block": "Kanakapura",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Chamarajasagara",
+  "pin": "562120",
+  "district": "Bangalore",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Begur",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bylanarasapura",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hindaganala",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "K.Satyavara",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Korati",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Nandagudi",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Nelavagilu",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Shivanapura",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Tavarekere",
+  "pin": "562122",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Arasinakunte",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Budihal",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Gollahalli",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Honnasandra",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Jakkanahalli",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Madalakote",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mahadevapura",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamagala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mallarabanavadi",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mandigere",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mylanahalli",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Nelamangala",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Teppadabeguru",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Yentiganahalli",
+  "pin": "562123",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Dommasandra",
+  "pin": "562125",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Handenahalli",
+  "pin": "562125",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kugur",
+  "pin": "562125",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Neriga",
+  "pin": "562125",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sarjapura",
+  "pin": "562125",
+  "district": "Bangalore",
+  "block": "Anekal",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Banavadi",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bylakere",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Gudemaranahalli",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Lakkenahalli",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Madigondanahalli",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Manniganahalli",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Marikuppe",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Motagondanahalli",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Narasandra",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Solur",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Udukunte",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Yennegere",
+  "pin": "562127",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bendiganahalli",
+  "pin": "562129",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bettakote",
+  "pin": "562129",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Budigere",
+  "pin": "562129",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Ibasapura",
+  "pin": "562129",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Reddihalli",
+  "pin": "562129",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sulebele",
+  "pin": "562129",
+  "district": "Bangalore Rural",
+  "block": "Hoskote",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chikkanahalli",
+  "pin": "562130",
+  "district": "Bangalore",
+  "block": "Bgsouth",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Chunchanakuppe",
+  "pin": "562130",
+  "district": "Bangalore",
+  "block": "Bg South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kadabagere",
+  "pin": "562130",
+  "district": "Bangalore",
+  "block": "Nla & Bgsouth",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kithanahalli",
+  "pin": "562130",
+  "district": "Bangalore Rural",
+  "block": "Bg South",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Soladevanahalli",
+  "pin": "562130",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sondekoppa",
+  "pin": "562130",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Tavarekere (Bangalore)",
+  "pin": "562130",
+  "district": "Bangalore",
+  "block": "Bangaloresouth",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Baginigere",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Biskur",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Doddamudigere",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Doddasomanahalli",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Gangonahalli",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hullenahalli",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Sankighatta",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Thippasandra",
+  "pin": "562131",
+  "district": "Bangalore Rural",
+  "block": "Magadi",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Doddabele",
+  "pin": "562132",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kollalagatta",
+  "pin": "562132",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Manne",
+  "pin": "562132",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Niduvanda",
+  "pin": "562132",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Obalapura",
+  "pin": "562132",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Tyamagondlu",
+  "pin": "562132",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Channarayapatna",
+  "pin": "562135",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Harohalli",
+  "pin": "562135",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mandibele",
+  "pin": "562135",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Narayanapura",
+  "pin": "562135",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Vijayapaura",
+  "pin": "562135",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bagalur (Bangalore)",
+  "pin": "562149",
+  "district": "Bangalore",
+  "block": "Banglorenorth",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bandikodigehalli",
+  "pin": "562149",
+  "district": "Bangalore",
+  "block": "Bgnorth",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Kannur",
+  "pin": "562149",
+  "district": "Bangalore",
+  "block": "Bg North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bettahalsur",
+  "pin": "562157",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Chikkajala",
+  "pin": "562157",
+  "district": "Bangalore",
+  "block": "Bg North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Doddajala",
+  "pin": "562157",
+  "district": "Bangalore",
+  "block": "Bg North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hunasamaranahalli",
+  "pin": "562157",
+  "district": "Bangalore",
+  "block": "Bg North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Tarahunise",
+  "pin": "562157",
+  "district": "Bangalore",
+  "block": "Bg North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Vidyanagara",
+  "pin": "562157",
+  "district": "Bangalore",
+  "block": "Bg North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Aluru",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Dasanapura",
+  "pin": "562162",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Hullegowdanahalli",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Huskur",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Lakshmipura",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Madanayakanahalli",
+  "pin": "562162",
+  "district": "Bangalore",
+  "block": "Bangalore North",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Madavara",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Makali",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Mathahalli",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Shivanapura",
+  "pin": "562162",
+  "district": "Bangalore Rural",
+  "block": "Nelamangala",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Arakere",
+  "pin": "562163",
+  "district": "Bangalore Rural",
+  "block": "Doddaballapura",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Basettihalli",
+  "pin": "562163",
+  "district": "Bangalore Rural",
+  "block": "Doddaballapura",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Doddatumkur",
+  "pin": "562163",
+  "district": "Bangalore Rural",
+  "block": "Dodballapura",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Konnagatta",
+  "pin": "562163",
+  "district": "Bangalore Rural",
+  "block": "Doddaballapura",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "NAGADENAHALLI",
+  "pin": "562163",
+  "district": "Bangalore Rural",
+  "block": "Doddabllapur",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Shivapura",
+  "pin": "562163",
+  "district": "Bangalore Rural",
+  "block": "Doddaballapura",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Veerapura",
+  "pin": "562163",
+  "district": "Bangalore Rural",
+  "block": "Doddaballpura",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Avathi",
+  "pin": "562164",
+  "district": "Bangalore",
+  "block": "Devanahalli",
+  "type": "Sub Post Office"
+ },
+ {
+  "name": "Bidalur",
+  "pin": "562164",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Bijjawara",
+  "pin": "562164",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Karahalli",
+  "pin": "562164",
+  "district": "Bangalore Rural",
+  "block": "Devanhalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Koira",
+  "pin": "562164",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ },
+ {
+  "name": "Venkatagirikote",
+  "pin": "562164",
+  "district": "Bangalore Rural",
+  "block": "Devanahalli",
+  "type": "Branch Post Office"
+ }
+]
