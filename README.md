@@ -19,11 +19,33 @@ Then open http://localhost:3000.
 
 All copy (company details, stats, projects, strengths) lives in `src/content/site.ts`. The current values are placeholders; replace them with real details before going live.
 
-## Enquiries
+## Enquiries (leads)
 
-The form posts to `/api/enquiry`, which validates the input and appends each enquiry as one JSON line to `data/enquiries.jsonl`. That folder is git-ignored because it holds customers' personal data.
+The form posts to `/api/enquiry`, which validates the input and saves: name, phone, email, the city the visitor typed, their approximate location detected by Vercel (city, state, country), what they're interested in, the project and their message.
 
-Writing to a local file works when running on your own machine or a single server. On serverless hosting (such as Vercel) the file system isn't persistent, so swap the storage in `src/app/api/enquiry/route.ts` for a database, CRM or email service first.
+- **On Vercel:** each enquiry is added as a row in a Google Sheet (setup below). If the sheet isn't configured, the form shows an error asking people to call or WhatsApp instead, so leads are never silently lost.
+- **Locally** (no sheet configured): enquiries are appended to `data/enquiries.csv`, which opens in Excel. The `data/` folder is git-ignored because it holds customers' personal data.
+
+A hidden field catches most spam bots, and text that looks like a spreadsheet formula is neutralised before saving.
+
+### Saving leads to Google Sheets
+
+1. Create a new Google Sheet (for example "Assurance Infra Leads").
+2. In the sheet, open **Extensions → Apps Script**. Delete the sample code and paste in the contents of `google-apps-script/Code.gs`. Save.
+3. In Apps Script, open **Project Settings → Script properties → Add script property**. Name: `SECRET`. Value: a long random password you make up. This stops anyone else from writing to your sheet.
+4. Click **Deploy → New deployment**, choose type **Web app**, set *Execute as* to **Me** and *Who has access* to **Anyone**, then **Deploy**. Approve the permissions, and copy the **Web app URL**.
+5. In Vercel, open the project's **Settings → Environment Variables** and add:
+   - `SHEET_WEBHOOK_URL` = the Web app URL
+   - `SHEET_WEBHOOK_SECRET` = the same secret as step 3
+6. Redeploy. New enquiries appear in a **Leads** tab in the sheet.
+
+If you change `Code.gs` later, use **Deploy → Manage deployments → Edit → New version** so the URL stays the same.
+
+To test the sheet locally, put the same two variables in a `.env.local` file (git-ignored) and restart `npm run dev`.
+
+## WhatsApp and brochure
+
+Set the WhatsApp number (digits with country code) and an optional brochure PDF in `src/content/site.ts`. Put the PDF in `public/` and set `brochureUrl` to e.g. `"/brochure.pdf"`; visitors who submit the form then get a download button.
 
 ## Scripts
 

@@ -9,6 +9,10 @@ export const company = {
   phone: "+91 00000 00000",
   email: "info@example.com",
   address: "Office address, City, State",
+  // Digits only, with country code, for the WhatsApp chat link.
+  whatsapp: "910000000000",
+  // Path to a PDF in /public (e.g. "/brochure.pdf"), or null to hide the download.
+  brochureUrl: null as string | null,
 };
 
 export const stats = [
@@ -70,4 +74,10 @@ export const strengths = [
   },
 ];
 
-export const interestOptions = ["Buying a home", "Buying a plot", "Commercial space", "Other"] as const;
+export const interestOptions = [
+  "Buying a home",
+  "Buying a plot",
+  "Commercial space",
+  "Get the brochure",
+  "Other",
+] as const;

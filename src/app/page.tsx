@@ -1,4 +1,5 @@
 import EnquiryForm from "@/components/EnquiryForm";
+import WhatsAppButton from "@/components/WhatsAppButton";
 import { company, projects, stats, strengths, type ProjectStatus } from "@/content/site";
 
 const statusStyles: Record<ProjectStatus, string> = {
@@ -150,6 +151,7 @@ export default function Home() {
           <span>{company.address}</span>
         </div>
       </footer>
+      <WhatsAppButton />
     </>
   );
 }
