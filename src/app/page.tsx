@@ -185,7 +185,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section id="enquire" className="scroll-mt-20 bg-brand-strong text-background">
+        <section id="enquire" className="scroll-mt-20 border-t border-border bg-background text-foreground">
           <div className="mx-auto grid max-w-6xl gap-12 px-4 py-20 sm:px-6 lg:grid-cols-2">
             <div>
               <h2 className="font-serif text-3xl font-semibold sm:text-4xl">Book a free consultation</h2>
