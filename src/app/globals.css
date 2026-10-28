@@ -1,27 +1,16 @@
 @import "tailwindcss";
 
+/* One light theme on the brand sand colour, regardless of the visitor's dark-mode setting. */
 :root {
-  --background: #faf8f4;
-  --surface: #ffffff;
+  color-scheme: light;
+  --background: #ecd09a;
+  --surface: #f7ebd2;
   --foreground: #1c2430;
-  --muted: #5b6573;
-  --border: #e4dfd5;
+  --muted: #5c4f3a;
+  --border: #d6b77c;
   --brand: #1f4e5f;
   --brand-strong: #163a47;
-  --accent: #c8893b;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #11161c;
-    --surface: #19212a;
-    --foreground: #e9e6df;
-    --muted: #a3acb8;
-    --border: #2a3440;
-    --brand: #6fb3c8;
-    --brand-strong: #8cc7d8;
-    --accent: #e0a85e;
-  }
+  --accent: #7a4510;
 }
 
 @theme inline {
