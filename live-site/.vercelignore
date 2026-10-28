@@ -1,0 +1,5 @@
+src/
+.claude/
+README.md
+.env*
+assets/css/site.original.css

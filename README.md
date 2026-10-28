@@ -1,5 +1,19 @@
 # Assurance Infra website
 
+> **The live site at assuranceinfra.com is in [`live-site/`](live-site/)**, not the Next.js app below.
+> It is a plain HTML/CSS/JS site with one Vercel function (`api/notify.js`), deployed to the
+> Vercel project `assurance-infra`. To publish changes, from inside `live-site/` run:
+>
+> ```bash
+> npx vercel deploy --prod
+> ```
+>
+> The sand colour scheme is a marked override block at the end of `live-site/assets/css/site.css`;
+> the original emerald stylesheet is kept as `site.original.css` (not deployed).
+> The chat's WhatsApp alerts need `CALLMEBOT_PHONE` and `CALLMEBOT_APIKEY` set in Vercel (see `api/notify.js`).
+
+## Next.js version (not deployed)
+
 Company website for Assurance Infra: homepage, project listings, "why us" section and an enquiry form that captures call-back requests.
 
 Built with Next.js 16 (App Router), TypeScript and Tailwind CSS 4.
